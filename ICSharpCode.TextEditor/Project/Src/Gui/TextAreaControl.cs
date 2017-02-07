@@ -219,7 +219,9 @@ namespace ICSharpCode.TextEditor
 		
 		public void AdjustScrollBars()
 		{
-			adjustScrollBarsOnNextUpdate = false;
+            if (this.textArea == null) return;
+
+            adjustScrollBarsOnNextUpdate = false;
 			vScrollBar.Minimum = 0;
 			// number of visible lines in document (folding!)
 			vScrollBar.Maximum = textArea.MaxVScrollValue;
