@@ -6,7 +6,7 @@
     <ProductVersion>8.0.50727</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}</ProjectGuid>
-    <AssemblyName>ICSharpCode.TextEditorEx</AssemblyName>
+    <AssemblyName>TROKA.Software.SimpleCodeEditor</AssemblyName>
     <OutputTarget>Library</OutputTarget>
     <WarningLevel>4</WarningLevel>
     <NoStdLib>False</NoStdLib>

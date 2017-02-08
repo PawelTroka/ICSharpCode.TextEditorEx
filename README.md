@@ -1,8 +1,7 @@
-#ICSharpCode.TextEditorEx
-
-[![Build status](https://ci.appveyor.com/api/projects/status/cyaqbvsn9lahvtg2?svg=true)](https://ci.appveyor.com/project/StefH/icsharpcode-texteditorex)
+#TROKA.Software.SimpleCodeEditor
 
 Extended version based on ICSharpCode.TextEditor which supports
+* Mono/Linux
 * search and replace
 * go to linenumber
 * Lua and SQL Syntax highlighting
@@ -10,6 +9,6 @@ Extended version based on ICSharpCode.TextEditor which supports
 * ContextMenu : Cut,Copy,Paste,Select All, Redo and Undo
 * Several enhancements
 
-The binary is available on [NuGet][1] : **Install-Package ICSharpCode.TextEditorEx**
+The binary is available on [NuGet][1] : **Install-Package TROKA.Software.SimpleCodeEditor**
 
-[1]: https://www.nuget.org/packages/ICSharpCode.TextEditorEx/ "NuGet - ICSharpCode.TextEditorEx"
+[1]: https://www.nuget.org/packages/TROKA.Software.SimpleCodeEditor/ "NuGet - TROKA.Software.SimpleCodeEditor"

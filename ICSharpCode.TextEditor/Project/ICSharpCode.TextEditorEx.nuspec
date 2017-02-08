@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
 	<metadata>
-		<id>ICSharpCode.TextEditorEx</id>
+		<id>TROKA.Software.SimpleCodeEditor</id>
 		<version>$version$</version>
-		<authors>Stef Heyenrath; MysticBoy</authors>
-		<owners>Stef Heyenrath</owners>
+		<authors>Stef Heyenrath; MysticBoy; Pawel Troka</authors>
+		<owners>Pawel Troka</owners>
 		<licenseUrl>http://www.opensource.org/licenses/lgpl-2.1.php</licenseUrl>
-		<projectUrl>http://github.com/StefH/ICSharpCode.TextEditorEx</projectUrl>
+		<projectUrl>https://github.com/PawelTroka/TROKA.Software.SimpleCodeEditor</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>An extension on the ICSharpCode.TextEditor which supports
+* Linux/Mono
 * search &amp; replace
 * go to linenumber
 * Lua and SQL Syntax highlighting
@@ -16,9 +17,9 @@
 * ContextMenu : Cut,Copy,Paste,Select All, Redo and Undo
 * Several enhancements
 		</description>
-		<summary>An extension on the ICSharpCode.TextEditor which supports Search/Replace, GoToLinenumber and XML + CSharp folding.</summary>
+		<summary>An extension on the ICSharpCode.TextEditor which supports Mono, Search/Replace, GoToLinenumber and XML + CSharp folding.</summary>
 		<releaseNotes>
-* Added ContextMenu
+* Added Linux/Mono support
 		</releaseNotes>
 		<language>en-US</language>
 		<dependencies>

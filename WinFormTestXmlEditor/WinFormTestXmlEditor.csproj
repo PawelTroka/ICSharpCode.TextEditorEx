@@ -96,9 +96,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ICSharpCode.TextEditor\Project\ICSharpCode.TextEditorEx.csproj">
+    <ProjectReference Include="..\ICSharpCode.TextEditor\Project\TROKA.Software.SimpleCodeEditor.csproj">
       <Project>{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}</Project>
-      <Name>ICSharpCode.TextEditorEx</Name>
+      <Name>TROKA.Software.SimpleCodeEditor</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

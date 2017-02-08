@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{691D7D
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.TextEditorEx", "ICSharpCode.TextEditor\Project\ICSharpCode.TextEditorEx.csproj", "{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TROKA.Software.SimpleCodeEditor", "ICSharpCode.TextEditor\Project\TROKA.Software.SimpleCodeEditor.csproj", "{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
