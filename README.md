@@ -1,4 +1,4 @@
-#TROKA.Software.SimpleCodeEditor
+# TROKA.Software.SimpleCodeEditor
 
 Extended version based on ICSharpCode.TextEditor which supports
 * Mono/Linux
